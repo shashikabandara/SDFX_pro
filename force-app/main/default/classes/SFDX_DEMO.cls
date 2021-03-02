@@ -5,6 +5,12 @@ public class SFDX_DEMO {
         for(Account acc:accList){
             system.debug('acc >>'+acc);
         }
+        
+        System.debug('This added by Nime');
+        List<Employee> empList = [SELECT id FROM Employee limit 5];
+        for(Employee emp:empList){
+            system.debug('employee >>'+emp);
+        }
     }
 
     //shashikabandara
