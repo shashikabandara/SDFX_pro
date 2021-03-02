@@ -7,6 +7,7 @@ public class SFDX_DEMO {
         }
     }
 
+    //just some test conflicts to understand (Dewsara)
     public void addTest(){
         system.debug('Just a test value from Dewsara.');
     }
