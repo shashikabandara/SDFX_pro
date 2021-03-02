@@ -6,5 +6,9 @@ public class SFDX_DEMO {
             system.debug('acc >>'+acc);
         }
     }
+
+    public void addTest(){
+        system.debug('Just a test value from Dewsara.');
+    }
 }
 //gffdffdfdfdbbbb
