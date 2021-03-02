@@ -7,4 +7,3 @@ public class SFDX_DEMO {
         }
     }
 }
-//shashika bandara
