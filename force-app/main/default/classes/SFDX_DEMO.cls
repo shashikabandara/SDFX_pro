@@ -16,6 +16,8 @@ public class SFDX_DEMO {
     Integer a = 0 ; 
     Double b = 100.0;
 
+    //Just testing some stuff
+    String helloWorld = 'Hello World';
     //just some test conflicts to understand (Dewsara)
     public void addTest(){
         system.debug('Just a test value from Dewsara.');
